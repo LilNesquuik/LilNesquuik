@@ -4,7 +4,7 @@ const { LilNesquuik } = require("LilNesquuik.md")
 
 
 ## 🍪 Hey ! its <a href="https://github.com/LilNesquuik" target="_blank">LilNesquuik</a>!
-➜ Hi ! I'm LilNesquuik.
+➜ Hi ! I'm LilNesquuik, a young developper.
 
 ## 🐒 My Github Stats
 
