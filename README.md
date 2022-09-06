@@ -54,7 +54,7 @@ const { LilNesquuik } = require("LilNesquuik.md")
 <br>
   
 ### - SCPSL Server 
-  <h2 align="center"><a href="https://discord.gg/jau9CHRxs2" target="_blank">SCP-EXTINCTION</a></h2>
+<a href="https://discord.gg/jau9CHRxs2" target="_blank">SCP-EXTINCTION</a>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
