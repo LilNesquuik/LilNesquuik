@@ -22,8 +22,13 @@ const { LilNesquuik } = require("LilNesquuik.md")
 <h2 align="center">🍪 Languages & Frameworks & Tools 🍪</h2>
 <br>
 <p align="center">
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Javascript" height="40" src="Imgs/javascript.png"></code>
+  <code><img title="CSharp" height="40" src="Imgs/csharp.png"></code>
+  <code><img title="Discord.js" height="40" src="Imgs/discordjs.png"></code>
+  <code><img title="Exiled" height="40" src="Imgs/exiled.jpg"></code>
+  <code><img title="NodeJs" height="40" src="Imgs/nodejs.png"></code>
+  <code><img title="Microsoft Visual studio" height="40" src="Imgs/vs2022.png"></code>
+  <code><img title="Visual studio code" height="40" src="Imgs/index-removebg-preview.png"></code>
 </p>
 <hr>
 
