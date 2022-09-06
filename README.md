@@ -35,24 +35,26 @@ const { LilNesquuik } = require("LilNesquuik.md")
 <hr>
 <h2 align="center">🔥 My Profils 🔥</h2>
 
-## 🐒 My Github Stats
+<hr>
+<h2 align="center">🍀 Stats 🍀</h2>
+<br>
 
 <div align="center">
   <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LilNesquuik&show_icons=true&theme=dark"/>
 </div>
 
-## 👻 Top languages i use.
-
 <div align="center">
   <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilNesquuik&langs_count=10&show_icons=true&theme=dark"/>
 </div>
 
-## 🥳 My Own projects.
+<hr>
+<h2 align="center">💻 Own Projects 💻</h2>
+<br>
   
 ### - SCPSL Server 
-<a href="https://discord.gg/jau9CHRxs2" target="_blank">SCP-EXTINCTION</a>
+<h2 href="https://discord.gg/jau9CHRxs2" target="_blank">SCP-EXTINCTION</h2>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
