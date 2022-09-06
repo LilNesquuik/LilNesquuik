@@ -31,11 +31,6 @@ const { LilNesquuik } = require("LilNesquuik.md")
   <code><img title="Visual studio code" height="40" src="Imgs/index-removebg-preview.png"></code>
 </p>
 
-
-<hr>
-<h2 align="center">🔥 My Profils 🔥</h2>
-
-<hr>
 <h2 align="center">🍀 Stats 🍀</h2>
 <br>
 
