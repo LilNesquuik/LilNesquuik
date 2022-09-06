@@ -13,7 +13,7 @@ const { LilNesquuik } = require("LilNesquuik.md")
   <br>
   💻 I started write code for <a href="https://discordjs.guide/">discord bots</a> in 2019 for community servers, and now i code for my own server
   <br>
-  📑 I’m currently learning C# for Plugin in SCP Secret Laboratory.
+  📑 I’m currently learning C# for Plugin with <a href="https://exiled-team.github.io/Web/">EXILED Framework</a> for SCP Secret Laboratory server.
   <br>
   📫 If you have any issues contact me on discord : <a href="https://discord.com/users/542790005219655687/">LilNesquuik#1028</a>
 </p>
