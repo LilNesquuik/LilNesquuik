@@ -8,6 +8,12 @@
 const { LilNesquuik } = require("LilNesquuik.md")
 ```
 
+<p align="center">
+  👋 Hey ! I'm LilNesquuik A young developper
+  <br>
+  💻 I learn C# and i code in Javascript for Discord Bot
+</p>
+
 <hr>
 <h2 align="center">🔥 My Profils 🔥</h2>
 
