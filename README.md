@@ -30,7 +30,7 @@ const { LilNesquuik } = require("LilNesquuik.md")
   <code><img title="Microsoft Visual studio" height="40" src="Imgs/vs2022.png"></code>
   <code><img title="Visual studio code" height="40" src="Imgs/index-removebg-preview.png"></code>
 </p>
-<hr>
+
 
 <hr>
 <h2 align="center">🔥 My Profils 🔥</h2>
