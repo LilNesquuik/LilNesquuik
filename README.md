@@ -9,9 +9,13 @@ const { LilNesquuik } = require("LilNesquuik.md")
 ```
 
 <p align="center">
-  👋 Hey ! I'm LilNesquuik A young developper
+  💬 Hey ! Im LilNesquuik, A young developper.
   <br>
-  💻 I learn C# and i code in Javascript for Discord Bot
+  💻 I love write code in Javascript for Discord Bot
+  <br>
+  📑 I’m currently learning C# for Plugin in SCP Secret Laboratory.
+  <br>
+  📫 If you have any issues contact me on discord : <a href="https://discord.com/users/542790005219655687/">LilNesquuik#1028</a>
 </p>
 
 <hr>
