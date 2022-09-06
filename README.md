@@ -11,7 +11,7 @@ const { LilNesquuik } = require("LilNesquuik.md")
 <p align="center">
   💬 Hey ! Im LilNesquuik, A young developper.
   <br>
-  💻 I started write code for discord bots in 2019 for community servers
+  💻 I started write code for <a href="https://discordjs.guide/">discord bots</a> in 2019 for community servers, and now i code for my own server
   <br>
   📑 I’m currently learning C# for Plugin in SCP Secret Laboratory.
   <br>
