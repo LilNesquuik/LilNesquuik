@@ -19,6 +19,15 @@ const { LilNesquuik } = require("LilNesquuik.md")
 </p>
 
 <hr>
+<h2 align="center">🍪 Languages & Frameworks & Tools 🍪</h2>
+<br>
+<p align="center">
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+</p>
+<hr>
+
+<hr>
 <h2 align="center">🔥 My Profils 🔥</h2>
 
 ## 🐒 My Github Stats
