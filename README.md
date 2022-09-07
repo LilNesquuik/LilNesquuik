@@ -8,6 +8,10 @@
 const { LilNesquuik } = require("LilNesquuik.md")
 ```
 
+<hr>
+<h2 align="center">💤 My Biography 💤</h2>
+<br>
+
 <p align="center">
   💬 Hey ! Im LilNesquuik, A young developper.
   <br>
@@ -19,7 +23,7 @@ const { LilNesquuik } = require("LilNesquuik.md")
 </p>
 
 <hr>
-<h2 align="center">🍪 Languages & Frameworks & Tools 🍪</h2>
+<h2 align="center">📑 Languages & Frameworks & Tools 📑</h2>
 <br>
 <p align="center">
   <code><img title="Javascript" height="40" src="Imgs/javascript.png"></code>
