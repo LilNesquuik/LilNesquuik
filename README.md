@@ -15,7 +15,7 @@ const { LilNesquuik } = require("LilNesquuik.md")
 <p align="center">
   💬 Hey ! Im LilNesquuik, A young developper.
   <br>
-  💻 I started write code for <a href="https://discordjs.guide/"><b>Discord bots</b></a> in 2019 for community servers, and now i code for my own server
+  💻 I started write code for <a href="https://discordjs.guide/"><b>Discord bots</b></a> in 2019 for community servers, and private server.
   <br>
   📑 I’m currently learning C# for Plugin with <a href="https://exiled-team.github.io/Web/"><b>EXILED Framework</b></a> for SCP Secret Laboratory server.
   <br>
