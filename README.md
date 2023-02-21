@@ -4,9 +4,6 @@
   </a>
 </h1>
 
-
-
-<hr>
 <h2 align="center">💤 My Biography 💤</h2>
 <br>
 
