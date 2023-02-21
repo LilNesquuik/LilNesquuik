@@ -10,7 +10,7 @@
 <p align="center">
   🍀 Hey ! Im LilNesquuik, My First name is Morgan
   <br>
-  💻 I am a developer on a roleplay server named <a href="https://discord.gg/purpleside">Purple Side</a> on SCP:SL
+  💻 I am a developer on a roleplay server named <a href="https://discord.gg/purpleside"><b>Purple Side</b></a> on SCP:SL
   <br>
   📫 If you have any issues contact me on discord : <a href="https://discord.com/users/542790005219655687/"><b>LilNesquuik#6666</b></a>
 </p>
