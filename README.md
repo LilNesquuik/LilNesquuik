@@ -4,13 +4,6 @@
   </a>
 </h1>
 
-<div style="width: 100%;">
-  <a href="https://lilnesquuik.fr" target="_blank">
-    <img src="background.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
-
-<hr>
 <h2 align="center">💻 Skills 💻</h2>
 <br>
 <p align="center">
