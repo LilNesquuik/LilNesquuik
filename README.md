@@ -2,8 +2,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profil;I'm+LilNesquuik;A+Silly+Developper&center=true&size=30&color=#F8F8FF">
   </a>
+</h1>
 
-<h2 align="center">💻 Skills 💻</h2>
+<hr>
+<h2 align="center">💻 Skills 💻</div>
 <br>
 <p align="center">
   <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
