@@ -11,16 +11,12 @@
 </div>
 
 <hr>
-<h2 align="center">💻 Skills 💻</h2>
+<h2>💻 Skills 💻</h2>
 <br>
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,rabbitmq,docker,unity&theme=dark)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,rabbitmq,docker,unity&theme=dark)](https://skillicons.dev)
 
 <h2 align="center">🔧 Tools 🔧</h2>
 <br>
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=rider,postman&theme=dark)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=rider,postman&theme=dark)](https://skillicons.dev)
   
  
