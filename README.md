@@ -14,13 +14,13 @@
 <h2 align="center">💻 Skills 💻</h2>
 <br>
 <p align="center">
-  <code>[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,rabbitmq,docker,unity&theme=dark)](https://skillicons.dev)</code>
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,rabbitmq,docker,unity&theme=dark)](https://skillicons.dev)
 </p>
 
 <h2 align="center">🔧 Tools 🔧</h2>
 <br>
 <p align="center">
-  <code>[![My Skills](https://skillicons.dev/icons?i=rider,postman&theme=dark)](https://skillicons.dev)</code>
+  [![My Skills](https://skillicons.dev/icons?i=rider,postman&theme=dark)](https://skillicons.dev)
 </p>
   
  
