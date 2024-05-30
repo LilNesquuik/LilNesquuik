@@ -16,7 +16,8 @@
 <p align="center">
   <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title="Dotnet" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
-  <code><img title="Postgres" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
+  <code><img title="Mysql" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
+  <code><img title="Postgres" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg"></code>
   <code><img title="RabbitMQ" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"></code>
   <code><img title="Docker" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
   <code><img title="Unity" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"></code>
