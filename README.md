@@ -5,6 +5,7 @@
 </div>
 
 <hr>
+
 <h2 align="center">💻 Skills 💻</h2>
 <br>
 <p align="center">
@@ -16,6 +17,8 @@
   <code><img title="Docker" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
   <code><img title="Unity" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"></code>
 </p>
+
+<hr>
 
 <h2 align="center">🔧 Tools 🔧</h2>
 <br>
