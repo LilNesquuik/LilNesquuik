@@ -6,6 +6,8 @@
 
 <hr>
 
+<a href="https://discord.com/users/542790005219655687"><img align="right" width="325" src="https://lanyard.kyrie25.me/api/542790005219655687?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+
 <h2 align="center">💻 Skills 💻</h2>
 <br>
 <p align="center">
