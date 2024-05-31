@@ -8,9 +8,9 @@
 
 <hr>
 
-<h2 align="left">💻 Skills 💻</h2>
+<h2 align="center">💻 Skills 💻</h2>
 <br>
-<p align="left">
+<p align="center">
   <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
   <code><img title="Dotnet" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
   <code><img title="Mysql" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
