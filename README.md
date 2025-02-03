@@ -28,11 +28,10 @@
 <h2 align="center">🛠️ Systems & Databases 🛠️</h2>
 <br>
 <p align="center">
-  <code><img title="Mysql" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
+  <code><img title="Docker" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
   <code><img title="Postgres" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
   <code><img title="RabbitMQ" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"></code>
   <code><img title="Redis" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg"></code>
-  <code><img title="Docker" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
   <code><img title="Linux" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></code>
 </p>
 
