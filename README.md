@@ -20,6 +20,7 @@
 <br>
 <p align="center">
   <code><img title="Dotnet" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
+  <code><img title="Discord.Net" height="40" src="https://docs.discordnet.dev/marketing/logo/SVG/Combinationmark%20White%20Border.svg"></code>
 </p>
 
 <hr>
