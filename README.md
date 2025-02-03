@@ -32,7 +32,7 @@
   <code><img title="RabbitMQ" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"></code>
   <code><img title="Redis" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg"></code>
   <code><img title="Docker" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
-  <code><img title="Linux" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg"></code>
+  <code><img title="Linux" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"></code>
 </p>
 
 <hr>
