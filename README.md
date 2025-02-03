@@ -8,25 +8,39 @@
 
 <hr>
 
-<h2 align="center">💻 Skills 💻</h2>
+<h2 align="center">🖥️ Languages 🖥️</h2>
 <br>
 <p align="center">
-  <code><img title="CSharp" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-  <code><img title="Dotnet" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
-  <code><img title="Mysql" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
-  <code><img title="Postgres" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
-  <code><img title="RabbitMQ" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"></code>
-  <code><img title="Docker" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
-  <code><img title="Unity" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"></code>
+  <code><img title="C#" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
 </p>
 
 <hr>
 
-<h2 align="center">🔧 Tools 🔧</h2>
+<h2 align="center">🏗️ Frameworks 🏗️</h2>
 <br>
 <p align="center">
-  <code><img title="Rider" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg"></code>
-  <code><img title="Postman" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"></code>
+  <code><img title="Dotnet" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
+</p>
+
+<hr>
+
+<h2 align="center">🛠️ Systems & Databases 🛠️</h2>
+<br>
+<p align="center">
+  <code><img title="Mysql" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></code>
+  <code><img title="Postgres" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
+  <code><img title="RabbitMQ" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"></code>
+  <code><img title="Redis" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"></code>
+  <code><img title="Docker" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
+  <code><img title="Linux" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg"></code>
+</p>
+
+<hr>
+
+<h2 align="center">🎮 Game Engine 🎮</h2>
+<br>
+<p align="center">
+  <code><img title="Unity" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"></code>
 </p>
   
  
