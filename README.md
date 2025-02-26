@@ -1,4 +1,7 @@
-<a href="https://discord.com/users/542790005219655687"><img align="right" width="350" src="https://lanyard.kyrie25.me/api/542790005219655687?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+LilNesquuik;A+Backend+Developper&center=true&size=30&color=#F8F8FF">
+  </a>
 
 <hr>
 
