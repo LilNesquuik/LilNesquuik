@@ -1,7 +1,8 @@
 <h2 align="center">
-  <p href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+LilNesquuik;A+Backend+Developper&center=true&size=30&color=#F8F8FF">
-  </p>
+<br>
+<p href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+LilNesquuik;A+Backend+Developper&center=true&size=30&color=#F8F8FF">
+</p>
 
 <h2 align="center">🖥️ Languages 🖥️</h2>
 <br>
