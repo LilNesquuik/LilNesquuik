@@ -2,8 +2,8 @@
 <br>
 <p align="center">
   <code><img title="C#" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-  <code><img title="Javascript" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
   <code><img title="Markdown 🤡" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg"></code>
+  <code><img title="Javascript" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
 </p>
 
 <hr>
