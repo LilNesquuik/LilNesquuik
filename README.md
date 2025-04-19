@@ -5,28 +5,27 @@
 <hr>
 
 <pre>
-👨‍💻 **Username**: LilNesquuik
-🎂 **Age**: 17
-💬 **Subtitle**: Building game-ready APIs and real-time systems. Focused on clean code, modularity, and performance.
+👨‍💻 Username: LilNesquuik  
+🎂 Age: 17  
+💬 Subtitle:  Building game-ready APIs and real-time systems. Focused on clean code, modularity, and performance.
 
-🔧 **Skills**:
+🔧 Skills:
 
-🖥️ **Languages**:
-  - C#
-  - Markdown 
-  - JavaScript
+🖥️ Languages:  
+- C#
+- JavaScript
 
-🏗️ **Frameworks**:
-  - DotNet
-  - Discord.Net
+🏗️ Frameworks:  
+- .NET  
+- Discord.Net
 
-🛠️ **Systems & Databases**:
-  - Docker
-  - MySQL
-  - PostgreSQL
-  - RabbitMQ
-  - Redis
-  - Linux 
+🛠️ Systems & Databases:  
+- Docker  
+- MySQL  
+- PostgreSQL  
+- RabbitMQ  
+- Redis  
+- Linux 🐧
 </pre>
 
 <hr>
