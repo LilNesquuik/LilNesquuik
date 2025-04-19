@@ -21,7 +21,7 @@
     ],
     "systems_and_databases": [
       "Docker",
-      "MySQL",
+      "MariaDB",
       "PostgreSQL",
       "RabbitMQ",
       "Redis",
