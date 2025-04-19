@@ -4,32 +4,6 @@
 
 <hr>
 
-<pre>
-👨‍💻 Username: LilNesquuik  
-🎂 Age: 17  
-💬 Subtitle:  Building game-ready APIs and real-time systems. Focused on clean code, modularity, and performance.
-
-🔧 Skills:
-
-🖥️ Languages:  
-- C#
-- JavaScript
-
-🏗️ Frameworks:  
-- .NET  
-- Discord.Net
-
-🛠️ Systems & Databases:  
-- Docker  
-- MySQL  
-- PostgreSQL  
-- RabbitMQ  
-- Redis  
-- Linux 🐧
-</pre>
-
-<hr>
-
 ```json
 {
   "username": "LilNesquuik",
