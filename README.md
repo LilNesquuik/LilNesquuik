@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A459A7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+I'm+LilNesquuik;Building+game-ready+APIs+and+real-time+systems.;Clean+code,+modularity+and+performance+focused." width="70%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A459A7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+I'm+LilNesquuik;Building+game-ready+APIs+and+real-time+systems." width="70%"/>
 
 <hr>
 
