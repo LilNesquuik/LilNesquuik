@@ -13,7 +13,7 @@
     "languages": [
       "C#",
       "Markdown",
-      "JavaScript"
+      "JavaScript",
     ],
     "frameworks": [
       ".NET",
@@ -26,7 +26,10 @@
       "RabbitMQ",
       "Redis",
       "Linux"
-    ]
+    ],
+    "others": [
+      "Social Engineering"
+    }
   }
 }
 ```
