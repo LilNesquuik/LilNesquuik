@@ -17,7 +17,9 @@
     ],
     "frameworks": [
       ".NET",
+      "ASP.NET"
       "Discord.Net"
+      "Exiled"
     ],
     "systems_and_databases": [
       "Docker",
