@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=45&duration=4000&pause=300&color=765BFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey,+I'm+LilNesquuik;I+design+real-time+systems+and+game-ready+APIs."/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=50&duration=4000&pause=300&color=765BFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+I'm+LilNesquuik;Building+game-ready+APIs+and+real-time+systems."/>
 </div>
 
 <hr>
@@ -8,7 +8,6 @@
 <br>
 <p align="center">
   <code><img title="C#" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-  <code><img title="Markdown 🤡" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg"></code>
   <code><img title="Javascript" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
 </p>
 
@@ -41,5 +40,3 @@
 <p align="center">
   <code><img title="Unity" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"></code>
 </p>
-  
- 
