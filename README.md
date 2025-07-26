@@ -10,6 +10,7 @@
 <br>
 <p align="center">
   <code><img title="C#" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
+  <code><img title="Golang" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"></code>
   <code><img title="Typescript" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
 </p>
 
