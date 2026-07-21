@@ -1,7 +1,7 @@
 <!-- Typing Effect -->
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=17y+Backend+developer;Focused+on+performance;Modularity+and+scalability&font=Fira%20Code&center=true&width=440&height=45&color=9b99cb&vCenter=true&pause=200&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=18y+Backend+developer;Focused+on+performance;Modularity+and+scalability&font=Fira%20Code&center=true&width=440&height=45&color=9b99cb&vCenter=true&pause=200&size=22" /></a>
 </p>
 
 ---
