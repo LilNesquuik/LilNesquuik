@@ -1,27 +1,29 @@
-<!-- Typing Effect -->
+<img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/stack.svg" alt="Morgan, backend developer, .NET and Rails" />
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=18y+Backend+developer;Focused+on+performance;Modularity+and+scalability&font=Fira%20Code&center=true&width=440&height=45&color=9b99cb&vCenter=true&pause=200&size=22" /></a>
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/about.svg" alt="Game servers, APIs and web bridges. 413 commits, 15+ repositories, 3+ years on live servers" />
 
----
+## Communities
 
-## 🧠 Programming Languages 🧠
+<table>
+<tr>
+<td width="50%"><a href="https://hexagone-scp.fr"><img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/cards/hexagone-org.svg" alt="Hexagone" /></a></td>
+<td width="50%"><a href="https://access-community.fr"><img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/cards/access-org.svg" alt="Access Community" /></a></td>
+</tr>
+</table>
 
-<code><img title="C#" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-<code><img title="Golang (In Progress)" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg"></code>
+## Projects
 
-## 🧩 Frameworks & Technologies 🧩
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/LilNesquuik/Swappy"><img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/cards/swappy.svg" alt="Swappy" /></a></td>
+<td width="50%"><a href="https://github.com/LilNesquuik/LabTesting"><img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/cards/labtesting.svg" alt="LabTesting" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/LilNesquuik/Steam.Net"><img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/cards/steamnet.svg" alt="Steam.Net" /></a></td>
+<td width="50%"><a href="https://github.com/LilNesquuik/StreamBlur"><img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/cards/streamblur.svg" alt="StreamBlur" /></a></td>
+</tr>
+</table>
 
-<code><img title="Dotnet" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
-<code><img title="Discord.Net" height="40" src="https://docs.discordnet.dev/favicon.png"></code>
-<code><img title="Unity" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"></code>
-<code><img title="GraphQL" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg"></code>
+## Contact
 
-## 🛠️ Systems & Databases
-
-<code><img title="Docker" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
-<code><img title="Postgres" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg"></code>
-<code><img title="RabbitMQ" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg"></code>
-<code><img title="LavinMQ" height="40" src="https://lavinmq.com/img/favicon/apple-icon-120x120-upd.png"></code>
-<code><img title="Redis" height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg"></code>
+<a href="mailto:lilnesquuikpro@gmail.com"><img width="100%" src="https://raw.githubusercontent.com/LilNesquuik/LilNesquuik/main/assets/cards/contact.svg" alt="Email: lilnesquuikpro@gmail.com" /></a>
